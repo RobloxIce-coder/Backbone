@@ -1,0 +1,26 @@
+body {
+  background-color: #33D7A5;
+  box-sizing: border-box;
+}
+
+h2 {
+  font-family: "Arvo";
+  text-shadow: 3px 3px rgba(0,0,0,0.3);
+  color: white;
+}
+p {
+  font-family: "Merriweather";
+}
+
+#pindah {
+  display: block;
+  text-align: center;
+  background-color: hotpink;
+  color: white;
+  width: 40px;
+  height: 35px;
+  font-weight: bolder;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px #7A81CE;
+}
